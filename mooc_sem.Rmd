@@ -2,7 +2,9 @@
 title: "Intervention for students at risk for failure"
 author: "Willie Kye"
 date: "2/28/2018"
-output: html_document
+output:
+  html_document: default
+  pdf_document: default
 ---
 
 ##Introduction
